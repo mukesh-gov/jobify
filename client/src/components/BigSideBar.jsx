@@ -1,7 +1,7 @@
 import Wrapper from "../assets/wrappers/BigSidebar";
 
-const BigSideBar = () => {
+const BigSidebar = () => {
   return <Wrapper>BigSideBar</Wrapper>;
 };
 
-export default BigSideBar;
+export default BigSidebar;
