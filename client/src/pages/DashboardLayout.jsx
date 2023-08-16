@@ -7,7 +7,7 @@ import { useState, createContext, useContext } from "react";
 const DashboardContext = createContext();
 const Dashboard = () => {
   // temp
-  const user = { name: "john" };
+  const user = { name: "mukesh" };
 
   const [showSidebar, setShowSidebar] = useState(false);
   const [isDarkTheme, setIsDarkTheme] = useState(false);
